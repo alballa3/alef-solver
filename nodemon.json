@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts,tsx",
+  "ignore": ["node_modules", "src/dist/**"],
+  "exec": "npx tsc --watch --outDir dist --rootDir src"
+}
