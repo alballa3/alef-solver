@@ -53,4 +53,4 @@ Copy question text from supported formats
 Paste into your preferred AI assistant
 Recommended options: **DeepSeek , ChatGPT**
 
-You're ready to go!✅
+You're ready to go!
